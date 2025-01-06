@@ -20,7 +20,7 @@ This project implements a deep learning-based solution for multi-class classific
 
 * Libraries:
 
- ** Data handling: Pandas, NumPy
+ * Data handling: Pandas, NumPy
 
  * Visualization: Seaborn, Matplotlib
 
