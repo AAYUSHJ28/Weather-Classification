@@ -20,7 +20,7 @@ This project implements a deep learning-based solution for multi-class classific
 
 * Libraries:
 
- * Data handling: Pandas, NumPy
+ ** Data handling: Pandas, NumPy
 
  * Visualization: Seaborn, Matplotlib
 
@@ -49,6 +49,8 @@ This project implements a deep learning-based solution for multi-class classific
  * The dataset is split into training and validation sets.
 
  * Performance metrics, such as accuracy and confusion matrices, are computed and visualized.
+   
+Dataset download-https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset/code
 
 
 
