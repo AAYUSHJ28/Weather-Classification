@@ -49,9 +49,6 @@ This project implements a deep learning-based solution for multi-class classific
  * The dataset is split into training and validation sets.
 
  * Performance metrics, such as accuracy and confusion matrices, are computed and visualized.
-   
-Dataset download-https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset/code
-
 
 
 ## Results
@@ -59,3 +56,7 @@ Dataset download-https://www.kaggle.com/datasets/pratik2901/multiclass-weather-d
 The model achieves classification of weather images with a high accuracy.
 
 Visualization of confusion matrices and classification reports provides insights into the model's performance.
+
+Dataset download-https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset/code
+
+
